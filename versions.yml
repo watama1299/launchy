@@ -105,13 +105,13 @@ modGroups:
       desc: Skips rendering Tiles/Entities that are not visible.
       url: https://cdn.modrinth.com/data/NNAgCjsB/versions/UvJN5Cy4/entityculling-fabric-1.6.2-mc1.19.4.jar
 
-    # - name: Cull Less Leaves
-    #   license: LGPL-3
-    #   homepage: https://modrinth.com/mod/cull-less-leaves
-    #   modrinthId: iG6ZHsUV
-    #   desc: Cull leaves while looking hot!
-    #   url: https://cdn.modrinth.com/data/iG6ZHsUV/versions/BxA1B1tp/CullLessLeaves-1.1.0.jar
-    #   requires: [Yet Another Config Lib]
+    - name: Cull Less Leaves
+      license: LGPL-3
+      homepage: https://modrinth.com/mod/cull-less-leaves
+      modrinthId: iG6ZHsUV
+      desc: Cull leaves while looking hot!
+      url: https://cdn.modrinth.com/data/iG6ZHsUV/versions/mafk58Fm/CullLessLeaves-1.2.0.jar
+      requires: [Yet Another Config Lib]
 
     # - name: Enhanced Block Entities
     #   license: LGPL-3
@@ -484,14 +484,6 @@ modGroups:
       homepage: https://modrinth.com/mod/lambdabettergrass
       desc: Adds better grass and snow to the game
       url: https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4%2B1.18/lambdabettergrass-1.2.4%2B1.18.jar
-
-    - name: Cull Less Leaves
-      license: LGPL-3
-      homepage: https://modrinth.com/mod/cull-less-leaves
-      modrinthId: iG6ZHsUV
-      desc: Cull leaves while looking hot!
-      url: https://cdn.modrinth.com/data/iG6ZHsUV/versions/BxA1B1tp/CullLessLeaves-1.1.0.jar
-      requires: [Yet Another Config Lib]
 
     - name: Enhanced Block Entities
       license: LGPL-3
